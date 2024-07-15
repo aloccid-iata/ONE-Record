@@ -3,5 +3,12 @@
     "version": "development",
     "title": "development",
     "aliases": []
+  },
+  {
+    "version": "2023-12-standard",
+    "title": "2023-12-standard",
+    "aliases": [
+      "stable"
+    ]
   }
 ]
